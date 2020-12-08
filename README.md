@@ -17,6 +17,8 @@ Dina barndoms kompisar: Leo och Sarah (Tänk på att historien utspelar sig i US
 
 (Du och dina barndoms kompisar ska fira julafton tillsammans alla i familjerna också, så ni får uppgiften att fixa någon form av efterrätt på cafeét på stan. Men allt går inte er väg. Men under spelets gång och tillslut hittar du din kärlek för livet: Sarah.)
 
+__Spoilers!!!
+
 Story:
 
 I wake up early in the morning to the sound of my phone alarm...
@@ -35,7 +37,9 @@ She said that she is on her way to my house so that we can walk together...
 
 What should I say?
 
-Sure I'll be down soon to meet you (truth good)
+______________________________________________________
+
+__Sure I'll be down soon to meet you (truth good)
 
 Great I am almost there, see you in a bit!
 
@@ -52,18 +56,28 @@ Sarah: "Thanks, that was very close"
 (): "A little to close"
 
 Sarah: "But thanks to you I didn't fall"
-___Next -> School__
 
-No thanks I would slow you down anyways (truth bad)
+Sarah: "Let's keep moving"
 
-Oh alright then, I'll see you at school then
-___Next -> School___
+On our way to the school we pass the town center and notice that the vacant shop has been purchased and renovated...
+
+Sarah: "Oh, it looks like a bakery or is that a café?"
+
+(): "Looks to be a café"
+__Next -> School
 
 ______________________________________________________
 
-Oh I am already at school (lie worst)
+__No thanks I would slow you down anyways (truth bad)
+
+Oh alright then, I'll see you at school then
+__Next -> School
+
+______________________________________________________
+
+__Oh I am already at school (lie worst)
 
 Since when do you go up so early and walk to school? I don't belive you for a second, if you don't want to walk with me then you could have just said so...
-___Next -> School___
+__Next -> School
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
