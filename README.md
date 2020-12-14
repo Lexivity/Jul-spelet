@@ -15,7 +15,7 @@ Dina barndoms kompisar: Leo och Sarah (Tänk på att historien utspelar sig i US
 
 (Namn på spelet: Christmas cafeé)
 
-(Du och dina barndoms kompisar ska fira julafton tillsammans alla i familjerna också, så ni får uppgiften att fixa någon form av efterrätt på cafeét på stan. Men allt går inte er väg. Men under spelets gång och tillslut hittar du din kärlek för livet: Sarah.)
+(Du och dina barndoms kompisar ska fira julafton tillsammans alla i familjerna också, så ni får uppgiften att fixa någon form av efterrätt på cafeét på stan. Men under spelets gång och tillslut hittar du din kärlek för livet: Sarah.)
 
 __Spoilers!!!
 
@@ -64,6 +64,10 @@ On our way to the school we pass the town center and notice that the vacant shop
 Sarah: "Oh, it looks like a bakery or is that a café?"
 
 (): "Looks to be a café"
+
+In not to long we reach the school grounds...
+
+We part ways to get to our own lockers and classes...
 __Next -> School
 
 ______________________________________________________
@@ -81,3 +85,33 @@ Since when do you go up so early and walk to school? I don't belive you for a se
 __Next -> School
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 14/12/2020
+
+__School
+
+I walk up to my locker and open it slowly...
+
+The door to the locker creaking as it's slowly pulled open...
+
+I grab my notes and my books for the morning class and close the locker again...
+
+I start making my way towards the classroom...
+
+Upon arriving outside I open the door and enter the classroom...
+
+The classroom is empty and the lights are on...
+
+I take a seat at the usual desk I sit at everyday...
+
+In a few minutes the rest of my class arrives chatting with oneanother...
+
+Last but not least my teacher arrives...
+
+The class goes on like normal...
+
+Me and some classmates pass around some notes and laughs...
+
+Finally the teacher says that class is over and we can go to lunch...
+
+I exit the classroom and find Sarah waiting outside for me...
